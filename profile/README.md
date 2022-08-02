@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.iceserver.jp/"><img src="banner.jpg" alt="Banner" width="600px"></a>
+  <a href="https://www.iceserver.jp/"><img src="https://raw.githubusercontent.com/IceServerLab/.github/main/profile/banner.jpg" alt="Banner" width="800px"></a>
 </p>
 
 <p align="center">
